@@ -8,7 +8,7 @@ const PORT = process.env.PORT || 3000;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const ELEVENLABS_API_KEY = process.env.ELEVENLABS_API_KEY;
 
-const VOICE_ID = "c6bExSiHfx47LERqW2VK";
+const VOICE_ID = "oO7sLA3dWfQXsKeSAjpA"; 
 
 app.use(cors({
 origin: "*",
