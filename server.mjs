@@ -428,7 +428,7 @@ app.get("/", (req, res) => {
         status: "online",
 
         message:
-            "Servidor da L.IA v1.0.2 com Gemini Streaming + ElevenLabs está funcionando!",
+            "Servidor da L.IA v1.0.6 com Gemini Streaming + ElevenLabs está funcionando!",
 
         services: {
 
