@@ -713,7 +713,7 @@ app.listen(
     () => {
 
         console.log(
-            `L.IA Server v1.0.2 rodando na porta ${PORT}`
+            `L.IA Server v1.0.7 rodando na porta ${PORT}`
         );
 
         console.log(
